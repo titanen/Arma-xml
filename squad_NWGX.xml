@@ -1,0 +1,52 @@
+<?xml version="1.0"?>
+<!DOCTYPE squad SYSTEM "squad.dtd">
+<?xml-stylesheet href="squad.xsl?" type="text/xsl"?>
+<squad nick="NWGX">
+ <name>New World Gaming X</name>
+ <email>vielodesign@gmail.com</email>
+ <web>www.newworldgamingx.com</web>
+ <picture>logo_2.paa</picture>
+ <title>NWGX</title>
+  <member id="16309318" nick="Elvis">
+   <name>[NWGX]Elvis</name>
+   <email>vielodesign@gmail.com</email>
+   <icq></icq>
+   <remark>Warheads on foreheads</remark>
+ </member>
+  <member id="" nick="">
+   <name>[NWGX]Kiladyn</name>
+   <email></email>
+   <icq></icq>
+   <remark></remark>
+ </member>
+  <member id="107438214" nick="Jig">
+   <name>[NWGX]Jigsaw</name>
+   <email></email>
+   <icq></icq>
+   <remark>Marines don't die, they just go to hell and regroup.</remark>
+ </member>
+  <member id="" nick="">
+   <name>[NWGX]Cosborn</name>
+   <email></email>
+   <icq></icq>
+   <remark></remark>
+ </member>
+  <member id="" nick="">
+   <name>[NWGX]Ravenous</name>
+   <email></email>
+   <icq></icq>
+   <remark></remark>
+ </member>
+  <member id="" nick="">
+   <name>[NWGX]Agia</name>
+   <email></email>
+   <icq></icq>
+   <remark></remark>
+ </member>
+  <member id="" nick="">
+   <name>[NWGX]Arkitek</name>
+   <email></email>
+   <icq></icq>
+   <remark></remark>
+ </member>
+</squad>

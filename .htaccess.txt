@@ -1,0 +1,7 @@
+AuthUserFile /yourpath/.htpasswd
+AuthType Basic
+AuthName "squadxml"
+
+<Files *.php>
+  Require valid-user
+</Files>
